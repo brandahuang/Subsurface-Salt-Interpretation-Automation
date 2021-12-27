@@ -8,3 +8,6 @@ The data for this project came straight from a Kaggle Competition: [TGS Salt Ide
 
 ## Blog
 You are welcome to look into more details of this project from our blog: https://medium.com/@brandahuang/subsurface-salt-interpretation-automation-enhancing-ml-workflow-for-semantic-segmentation-6442807255a8
+
+## Reference
+https://www.kaggle.com/jesperdramsch/intro-to-seismic-salt-and-how-to-geophysics
