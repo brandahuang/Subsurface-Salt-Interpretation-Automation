@@ -10,4 +10,18 @@ The data for this project came straight from a Kaggle Competition: [TGS Salt Ide
 You are welcome to look into more details of this project from our blog: https://medium.com/@brandahuang/subsurface-salt-interpretation-automation-enhancing-ml-workflow-for-semantic-segmentation-6442807255a8
 
 ## Reference
-https://www.kaggle.com/jesperdramsch/intro-to-seismic-salt-and-how-to-geophysics
+[1] https://glossary.oilfield.slb.com/Terms/s/seismic_acquisition.aspx
+[2] https://en.wikipedia.org/wiki/Reflection_seismology
+[3] https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-510-introduction-to-seismology-spring-2010/lecture-notes/lec9.pdf
+[4] https://en.wikipedia.org/wiki/Acoustic_impedance
+[5] https://www.kaggle.com/c/tgs-salt-identification-challenge/data
+[6] https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939
+[7] https://cs231n.github.io/convolutional-networks/
+[8] https://www.jeremyjordan.me/semantic-segmentation/
+[9] https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+[10] https://arxiv.org/pdf/1505.04597.pdf
+[11] https://towardsdatascience.com/pseudo-labeling-to-deal-with-small-datasets-what-why-how-fd6f903213af
+[12] https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2
+[13] https://www.youtube.com/watch?v=azM57JuQpQI
+[14] https://www.tensorflow.org/tutorials/images/segmentation
+[15] https://www.kaggle.com/jesperdramsch/intro-to-seismic-salt-and-how-to-geophysics
