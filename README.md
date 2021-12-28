@@ -6,12 +6,12 @@ The current model we have developed is built on 4000 original input 2D salt imag
 
 ## Dataset
 The data for this project came straight from a Kaggle Competition: [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge/data)
-The data is a set of images chosen at various locations chosen at random in the subsurface. The images are 101 x 101 pixels and each pixel is classified as either salt or sediment. In addition to the seismic images, the depth of the imaged location is provided for each image.
+The data is a set of images chosen at various locations chosen at random in the subsurface. The images are 101 x 101 pixels and each pixel is classified as either salt or sediment. Each pair consists of a seismic image of the earth’s subsurface, and its corresponding "salt mask". In addition to the seismic images, the depth of the imaged location is provided for each image.
 
 ## Blog
 You are welcome to look into more details of this project from our blog: https://medium.com/@brandahuang/subsurface-salt-interpretation-automation-enhancing-ml-workflow-for-semantic-segmentation-6442807255a8
 
-## Reference
+## References
 [1] https://glossary.oilfield.slb.com/Terms/s/seismic_acquisition.aspx
 [2] https://en.wikipedia.org/wiki/Reflection_seismology
 [3] https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-510-introduction-to-seismology-spring-2010/lecture-notes/lec9.pdf
